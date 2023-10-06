@@ -9,16 +9,17 @@
 	"Dulink",
 	"Tnlink",
 	"pdisklinkshortener"
+	"adrinolinks"
     ],
-    "website": "https://github.com/AkBotZ/Link-Shortener-Bot",
-    "repository": "https://github.com/AkBotZ/Link-Shortener-Bot",
+    "website": "https://github.com/Rafik0786/Ag-link-shortner-",
+    "repository": "https://github.com/Rafik0786/Ag-link-shortner-",
     "env": {
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "61f20724c18a07c1150a4297f3240f05",
             "value": ""
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "24897616",
             "value": ""
         },
         "API_KEY": {
@@ -30,7 +31,7 @@
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Your bot token, Get it from @Botfather",
+            "description": "6371350342:AAEc-KJpS4k-mLDvoW9Ncz1a4Mk2Za_fD8E",
             "value": ""
         }
     },
